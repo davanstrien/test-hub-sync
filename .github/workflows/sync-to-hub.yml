@@ -14,4 +14,4 @@ jobs:
           huggingface_repo_id: davanstrien/test-hub-sync
           hf_token: ${{ secrets.HF_TOKEN }}
           repo_type: space
-          space_sdk: static
+          space_sdk: gradio

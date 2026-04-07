@@ -3,7 +3,7 @@ title: Test Hub Sync
 emoji: 🔄
 colorFrom: blue
 colorTo: green
-sdk: static
+sdk: gradio
 pinned: false
 ---
 
